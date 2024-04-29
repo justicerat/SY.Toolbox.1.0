@@ -1,0 +1,32 @@
+SY Toolbox
+Designed Specially for Beginners and Inexperienced Users
+Install Needed Programs in a few clicks
+Activate your Microsoft Windows or Microsoft Office
+
+
+
+Simple Interface
+With a Simple interface where all you have to do is write the number of option you want and press Enter
+Full Automatic Download and installation
+a simple tool that runs on any Microsoft Windows with no requirements
+Works on x32 and x64 with no problems
+
+All Programs Installed are Activated
+Repacks Are Taken from elchupacabra
+
+Programs Section Contains most Used Softwares (Activated and Free)
+Runtimes contains Required softwares for games to run without errors of missing dll files
+Windows Activations for Windows 8.1/10/11 and even Windows 7
+Tweaks contain Most used Tweaks (some of Them are Windows 10 and 11 Only)
+Portable : Programs gets downloaded on desktop with no installation
+
+The Toolbox is totally safe it doesn't have any Dangerous tweaks that could cause problems
+
+Please Note :
+Whatever you Choose , Will be Downloaded and Installed also Kept in the Toolbox files
+so you can install it again later on the same or on Different PC
+
+Also Note :
+you can Turn On the PowerShell Downloading ,
+Write the Number 128 and Press Enter to Activate the PowerShell Downloading
+This Will Solve the Issue " This App Can't Run on This PC "
